@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "id": 1001,
+      "name": "Movie1 in Bangalore",
+      "region": "Bangalore",
+      "date": "June 15th 2021",
+      "poster": "https://www.pixel4k.com/wp-content/uploads/2020/01/vanguard-movie-2020_1579648329.jpg"
+    },
+    {
+      "id": 1002,
+      "name": "Movie2 in Delhi",
+      "region": "Delhi",
+      "date": "May 1st 2020",
+      "poster": "https://wallpapercave.com/wp/wp5758736.jpg"
+    },
+    {
+      "name": "Movie3 in Assam",
+      "date": "23 May 2023",
+      "region": "Assam",
+      "poster": "https://free4kwallpapers.com/uploads/originals/2015/12/17/the-spongebob-movie-sponge-out-of-water-wallpaper.jpg",
+      "id": 1003
+    },
+    {
+      "name": "Movie4 in Nainetal",
+      "date": "23 May 2023",
+      "region": "Nainetal",
+      "poster": "https://wallpaper.dog/large/10915262.jpg",
+      "id": 1004
+    },
+    {
+      "name": "Movie5 in Munnar",
+      "date": "29 May 2022",
+      "region": "Kerela",
+      "poster": "https://images3.alphacoders.com/948/thumb-1920-948864.jpg",
+      "id": 1005
+    }
+  ]
+}
